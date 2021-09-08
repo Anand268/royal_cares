@@ -320,7 +320,7 @@ background-size: cover; margin: 0;}
 /*-------------- slider ------------*/
 .intro-section{background: url(../images/hero-img.jpg) no-repeat center;  background-size: cover; }
 .intro-caption{color: #333333; padding-top: 150px; padding-bottom: 150px;}
-.intro-title{font-size: 42px; color: #333333; line-height: 58px;}
+.intro-title{font-size: 24px; color: #333333; line-height: 40px;}
 /*-------------- cta ------------*/
 .cta{}
 .cta-text{}
